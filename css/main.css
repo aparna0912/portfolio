@@ -1,0 +1,30 @@
+.pull-right{
+	position: absolute;
+	right: 20px;
+	width: 200px;
+
+	display: inline;
+}
+nav{
+	background-color: grey;
+	padding: 10px;
+}
+nav a{
+	display: inline;
+text-decoration: none;
+	color: white;
+	font-weight: 30px;
+font-size: 18px;
+	
+}
+nav a: hover
+
+{
+	color: red;
+}
+
+
+body
+{
+margin: 0px 0px 5px 0px;
+}	
